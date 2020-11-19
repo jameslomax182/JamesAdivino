@@ -2,6 +2,8 @@ package jamesadivino;
 
 import java.util.Scanner;
 
+//Revisado Hector Cano
+
 public class JamesAdivino {
 
 
